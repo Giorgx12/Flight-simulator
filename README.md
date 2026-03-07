@@ -1,1 +1,1 @@
-This is a flight somulator created with AI
+This is a flight simulator created with AI
